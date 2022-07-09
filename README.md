@@ -21,7 +21,7 @@ $ python2 tampilan.py
 
 # Ketik exit lalu tekan enter untuk memulai tools
 
-> My Sosial Media <
+> My Sosial Media 👇🏻
 * [<img alt="Dunia-Kode's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/tanoko.iansyah)<br />
 
 
