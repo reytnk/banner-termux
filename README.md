@@ -20,3 +20,7 @@ $ python2 tampilan.py
 # Selanjutnya tinggal masukan nama anda👏🏻
 
 # Ketik exit lalu tekan enter untuk memulai tools
+
+>Facebook : (https://facebook.com/tanoko.iansyah
+
+Jangan lupa untuk follow👏🏻
