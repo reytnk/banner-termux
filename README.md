@@ -23,6 +23,8 @@ $ python2 tampilan.py
 
 # Ketik exit lalu tekan enter untuk memulai tools
 
+# Perbesar atau Perkecil layar untuk menyesuaikan tampilan 
+
 > My Sosial Media 👇🏻
 * [<img alt="Dunia-Kode's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/tanoko.iansyah)<br />
 
