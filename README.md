@@ -11,7 +11,7 @@ $ pkg up -y
 
 $ pkg in git python2 -y
 
-$ git clone https://github.com/reytnk/tampilan-termux
+$ git clone https://github.com/reytnk/Tampilan-termux
 
 $ cd Tampilan-termux
 
