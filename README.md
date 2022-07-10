@@ -13,7 +13,7 @@ $ pkg in git python2 -y
 
 $ git clone https://github.com/reytnk/tampilan-termux
 
-$ cd tampilan-termux
+$ cd Tampilan-termux
 
 $ python2 tampilan.py
 
