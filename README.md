@@ -15,7 +15,7 @@ $ git clone https://github.com/reytnk/banner-termux
 
 $ cd banner-termux
 
-$ python2 tampilan2.py
+$ python2 tampilan.py
 ```
 
 ![IMG_20220710_025842](https://user-images.githubusercontent.com/108567421/178120877-ebf037e3-613d-49f1-8f1f-7eee4f46dc3a.jpg)
